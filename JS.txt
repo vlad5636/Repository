@@ -1,0 +1,12 @@
+<html>  <body>
+<script type="text/javascript">
+alert(У«дравствуйте!!Ф);  //выводим сообщение 
+document.bgColor=УredФ;//помен€ли цвет фона  на красный
+</script>
+                           «десь в документе можно написать любой html-текст 
+<script type="text/javascript">
+alert(Ућы уже встречались!!Ф);   //выводим сообщение
+document.bgColor=УyellowФ; //помен€ли цвет фона  на желтый
+</script>
+                              «десь также  можно написать любой html-текст !!!!!
+</body> </html> 
